@@ -5,6 +5,8 @@
 * Wait till the player is idle.
 * OR just stop casting using google-cast extension in chrome browser.
 
+## Demonstratino can be also watched at youtube : [cast](https://www.youtube.com/watch?v=uR_YlNmtUq8&feature=youtu.be) video link.
+
 ## Limitations of this demo:
 * By default Player port is 9999. Configure peer accordingly or just edit the script accordingly.
 * By default content-type of media is "audio/mp3". So make sure the stream is mp3. OR just change the content-type in cast.py file.
